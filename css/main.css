@@ -225,13 +225,22 @@ color: rgba(131, 136, 143, 1);
     color: #83888F;
     text-decoration: none;
 }
+.home-page-2:hover{
+    color: #FEFCF7;
+}
 .plan-html-2{
     color: #83888F;
     text-decoration: none;
 }
+.plan-html-2:hover{
+    color: #FEFCF7;
+}
 .about-us-2{
     color: #83888F;
     text-decoration: none;
+}
+.about-us-2:hover{
+    color: #FEFCF7;
 }
 .social-media-2{
     display: flex;
